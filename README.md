@@ -15,7 +15,7 @@
 -------
 <h1 align="center">assalamu'alaikum <img src="https://www.linkpicture.com/q/png_20230123_102817_0000.png" width="40px" alt="hi"><br>I'm PannSH 😇 </h1>
 <p align="center">
-  <img src="https://github.com/PanzXx.png" /></>
+  <img src="https://www.linkpicture.com/q/home.jpg" /></>
 </p>
 
 - 👼 My name is Apri Panji 
