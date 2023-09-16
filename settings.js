@@ -4,7 +4,7 @@ global.creator = 'PannSH'// yourname
 global.MONGO_DB_URI = "mongodb+srv://pansh:bu0johzUWDK5m9Qv@pansh.yn2wgy4.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "$QSH23sHdLoR" //isi apa aja bebas
 global.your_email = "panjipr1140v@gmail.com" //email
-global.email_password = "gabp yuxe ctzm tdyw" //application password email
+global.email_password = "suwf jgqk wvbv kyoa" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
